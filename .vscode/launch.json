@@ -1,0 +1,78 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PrimeNUM",
+            "request": "launch",
+            "mainClass": "PrimeNUM",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "MyArray",
+            "request": "launch",
+            "mainClass": "MyArray",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "myArray",
+            "request": "launch",
+            "mainClass": "myArray",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeExa",
+            "request": "launch",
+            "mainClass": "PalindromeExa",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
