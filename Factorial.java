@@ -5,6 +5,7 @@ class Factorial{
         for(i=number;i>=1;i--){
             sum = sum*i;
         }
-        System.out.println("Factorial of given number is:"+sum);
+        System.out.print("Factorial of given number is: ");
+        System.out.print(sum);
     }
 }
