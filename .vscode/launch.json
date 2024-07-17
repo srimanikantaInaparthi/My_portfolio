@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StrCha",
+            "request": "launch",
+            "mainClass": "StrCha",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "Mian",
+            "request": "launch",
+            "mainClass": "Mian",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "SumNaturalNumber",
+            "request": "launch",
+            "mainClass": "SumNaturalNumber",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNum",
+            "request": "launch",
+            "mainClass": "PrimeNum",
+            "projectName": "MANI_8d9c6e95"
+        },
+        {
+            "type": "java",
             "name": "PrimeNUM",
             "request": "launch",
             "mainClass": "PrimeNUM",
