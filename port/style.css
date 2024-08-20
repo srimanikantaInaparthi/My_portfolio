@@ -1,0 +1,274 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.nav-list li {
+    margin-right: 20px;
+}
+
+.nav-list a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-list a:hover {
+    color: #ccc;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+#about p {
+    text-align: justify;
+}
+
+.contact-link {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.contact-link:hover {
+    color: #23527c;
+}
+
+.education-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.education-table th, .education-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.education-table th {
+    background-color: #f0f0f0;
+}
+
+.skills-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.skills-list li {
+    margin-bottom: 10px;
+}
+
+.experience-item {
+    margin-bottom: 20px;
+}
+
+.experience-item h3 {
+    margin-top: 0;
+}
+
+.experience-item ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.experience-item li {
+    margin-bottom: 10px;
+}
+
+.achievements-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.achievements-list li {
+    margin-bottom: 10px;
+}
+
+.achievement-link {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.achievement-link:hover {
+    color: #23527c;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer li {
+    margin-bottom: 10px;
+}
+
+footer a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #23527c;
+}
+
+
+#education {
+    background-color: #fff;
+    transition: background-color 0.5s ease-in-out;
+}
+
+#skills {
+    background-color: #f7f7f7;
+    transition: background-color 0.5s ease-in-out;
+}
+
+#experience {
+    background-color: #fff;
+    transition: background-color 0.5s ease-in-out;
+}
+
+#achievements {
+    background-color: #f7f7f7;
+    transition: background-color 0.5s ease-in-out;
+}
+
+#contact {
+    background-color: #f7f7f7;
+    transition: background-color 0.5s ease-in-out;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+    .nav-list {
+        flex-direction: column;
+    }
+
+    .nav-list li {
+        margin-right: 0;
+    }
+}
+
+section {
+    padding: 20px;
+}
+
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+}
+
+
+.extracurricular-list {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.extracurricular-list ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.extracurricular-list li {
+    margin-bottom: 10px;
+    font-size: 1em;
+}
+
+.extracurricular-list span {
+    display: block;
+    color: #000000;
+}
+
+
+.hobbies-list {
+    background-color: #f7f7f7;
+    transition: background-color 0.5s ease-in-out;
+
+}
+
+.hobbies-list ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hobbies-list li {
+    margin-bottom: 10px;
+    font-size: 1em;
+}
+
+.hobbies-list span {
+    display: block;
+    color: #333;
+}
